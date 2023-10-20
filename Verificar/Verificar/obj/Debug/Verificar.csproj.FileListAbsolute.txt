@@ -1,0 +1,7 @@
+C:\Users\irn07\source\repos\Verificar\Verificar\bin\Debug\Verificar.exe.config
+C:\Users\irn07\source\repos\Verificar\Verificar\bin\Debug\Verificar.exe
+C:\Users\irn07\source\repos\Verificar\Verificar\bin\Debug\Verificar.pdb
+C:\Users\irn07\source\repos\Verificar\Verificar\obj\Debug\Verificar.csproj.AssemblyReference.cache
+C:\Users\irn07\source\repos\Verificar\Verificar\obj\Debug\Verificar.csproj.CoreCompileInputs.cache
+C:\Users\irn07\source\repos\Verificar\Verificar\obj\Debug\Verificar.exe
+C:\Users\irn07\source\repos\Verificar\Verificar\obj\Debug\Verificar.pdb
